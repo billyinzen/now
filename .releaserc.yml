@@ -6,7 +6,7 @@ plugins:
   -
     - "@semantic-release/changelog"
     - changelogFile: "docs/CHANGELOG.md"
-    - changelogTitle: "Now! Changelog"
+      changelogTitle: "Now! Changelog"
   -
     - "@semantic-release/git"
     - assets: 
