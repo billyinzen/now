@@ -9,8 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Now.UnitTests", "Now.UnitTe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{B291735F-ED80-4020-B3DD-A4400A333C65}"
 	ProjectSection(SolutionItems) = preProject
-		..\LICENSE = ..\LICENSE
 		..\README.md = ..\README.md
+		..\docs\CHANGELOG.md = ..\docs\CHANGELOG.md
+		..\docs\LICENSE = ..\docs\LICENSE
 	EndProjectSection
 EndProject
 Global
