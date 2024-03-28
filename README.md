@@ -13,6 +13,10 @@ re-writing the same abstractions time and time again.
 
 ## References
 
+## Docs
+- [License](./docs/LICENSE)
+- [Changelog](./docs/CHANGELOG.md)
+
 ### Dependencies
 
 ### Other libraries you might be interested in
