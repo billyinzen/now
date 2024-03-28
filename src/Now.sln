@@ -12,6 +12,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution 
 		..\README.md = ..\README.md
 		..\docs\CHANGELOG.md = ..\docs\CHANGELOG.md
 		..\docs\LICENSE = ..\docs\LICENSE
+		..\package.json = ..\package.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Github Actions", "Github Actions", "{89195899-BADC-4C8B-8A36-98EEAF9F0369}"
+	ProjectSection(SolutionItems) = preProject
+		..\.github\workflows\commit-linting.yml = ..\.github\workflows\commit-linting.yml
+		..\.github\workflows\release.yml = ..\.github\workflows\release.yml
 	EndProjectSection
 EndProject
 Global
