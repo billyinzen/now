@@ -1,14 +1,14 @@
 branches:
   - main
 plugins:
-  - "@semantic-release/commit-analyzer",
-  - "@semantic-release/release-notes-generator",
+  - "@semantic-release/commit-analyzer"
+  - "@semantic-release/release-notes-generator"
   -
-    - "@semantic-release/changelog",
+    - "@semantic-release/changelog"
     - changelogFile: "docs/CHANGELOG.md"
     - changelogTitle: "Now! Changelog"
   -
-    - "@semantic-release/git",
+    - "@semantic-release/git"
     - assets: 
         - path: "docs/CHANGELOG.md"
           label: changelog
